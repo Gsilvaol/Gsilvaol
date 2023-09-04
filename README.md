@@ -1,8 +1,5 @@
 <h1 align="center">Hi there👋, I'm Gustavo Silva de Oliveira</h1>
 
-
-- 🔭 no momento estou procurando estagio.
-- 🌱 I’m currently learning  JavaScript.
 - 📫 How to reach me:  gustavosilva1994_@hotmail.com
 - 😄 Pronouns:  Ele
 <h3 align="left">Connect with me:</h3>
