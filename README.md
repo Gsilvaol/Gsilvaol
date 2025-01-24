@@ -1,4 +1,4 @@
-<h1 align="center">Hi there👋, I'm Gustavo Silva de Oliveira</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="50" height="50" />, I'm Gustavo Silva de Oliveira  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" alt="Man Technologist" width="50" height="50" /></h1>
 
 - 📫 How to reach me:  gustavosilva1994_@hotmail.com
 - 😄 Pronouns:  Ele
